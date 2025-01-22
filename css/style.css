@@ -1,0 +1,24 @@
+body{
+    background-color: plum;
+    margin: 0;
+}
+
+table,td{
+    border : 2px solid white;
+    padding : 5px;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+thead{
+    font-weight: bold;
+}
+
+#chartCn{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(0, -50%);
+    text-align: center;
+}
+
